@@ -1,0 +1,48 @@
+{
+    "global_info":{
+        "tr_engine_version":4,
+        "manifest_compatibility_version":0,
+        "game_name":"Tomb Raider: The Times Exclusive",
+        "authors":"Core Design",
+        "release_date":"17/12/1999",
+        "game_user_dir_name":"CoreDesign-TombRaiderTheTimesExclusive",
+        "tr_level_editor":false,
+        "tr_times_exclusive":true,
+        "tr_use_adpcm_audio":true,
+
+        "trng_version_major":0,
+        "trng_version_minor":0,
+        "trng_version_maintainence":0,
+        "trng_version_build":0,
+        "trng_version_is_plus":0,
+
+        "trng_flipeffects_enabled":false,
+        "trng_rollingball_extended_ocb":false,
+        "trng_statics_extended_ocb":false,
+        "trng_pushable_extended_ocb":false,
+        "trep_using_extended_saves":false
+    },
+    "global_level_info":{
+        "audio_info":{
+            "new_audio_system":true,
+            "old_cd_trigger_system":true
+        }
+    },
+    "levels":[
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "environment_info":{
+                "force_train_fog":true
+            }
+        },
+        {
+            "environment_info":{
+                "force_train_fog":true
+            }
+        }
+    ]
+}

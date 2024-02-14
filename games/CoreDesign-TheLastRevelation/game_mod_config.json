@@ -1,0 +1,69 @@
+{
+    "global_info":{
+        "manifest_compatibility_version":0,
+        "game_name":"Tomb Raider: The Last Revelation",
+        "authors":"Core Design",
+        "release_date":"24/11/1999",
+        "game_user_dir_name":"CoreDesign-TheLastRevelation",
+        "tr_engine_version":4,
+        "tr_level_editor":false,
+        "tr_time_exclusive":false,
+        "tr_use_adpcm_audio":true,
+
+        "trng_version_major":0,
+        "trng_version_minor":0,
+        "trng_version_maintainence":0,
+        "trng_version_build":0,
+        "trng_version_is_plus":0,
+
+        "trng_flipeffects_enabled":false,
+        "trng_rollingball_extended_ocb":false,
+        "trng_statics_extended_ocb":false,
+        "trng_pushable_extended_ocb":false,
+        "trep_using_extended_saves":false
+    },
+    "global_level_info":{
+        "audio_info":{
+            "new_audio_system":false,
+            "old_cd_trigger_system":true
+        },
+        "lara_info":{
+            "crawlspace_jump_animation":-1
+        }
+    },
+    "levels":[
+        {
+            "creature_info":{
+                "small_scorpion_is_poisonous":false
+            }
+        },
+        {
+            "creature_info":{
+                "small_scorpion_is_poisonous":false
+            }
+        },
+        {
+            "creature_info":{
+                "small_scorpion_is_poisonous":false
+            }
+        },
+        {
+            "creature_info":{
+                "small_scorpion_is_poisonous":false
+            }
+        },
+        {
+
+        },
+        {
+            "environment_info":{
+                "force_train_fog":true
+            }
+        },
+        {
+            "environment_info":{
+                "force_train_fog":true
+            }
+        }
+    ]
+}
