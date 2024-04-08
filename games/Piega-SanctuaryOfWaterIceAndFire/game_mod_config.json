@@ -1,0 +1,23 @@
+{
+    "global_info":{
+        "manifest_compatibility_version":0,
+        "game_name":"The Sanctuary of Water, Ice and Fire",
+        "authors":"Piega",
+        "release_date":"19/10/2002",
+        "game_user_dir_name":"Piega-SanctuaryOfWaterIceAndFire",
+        "trng_version_major":0,
+        "trng_version_minor":0,
+        "trng_version_maintainence":0,
+        "trng_version_build":0,
+        "trng_version_is_plus":0,
+        "trng_flipeffects_enabled":false,
+        "trng_rollingball_extended_ocb":false,
+        "trng_statics_extended_ocb":false,
+        "trng_pushable_extended_ocb":false
+    },
+    "global_level_info":{
+        "stat_info":{
+            "secret_count":15
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "global_info":{
+        "manifest_compatibility_version":0,
+        "game_name":"Legacy of the Gods - Bonus Pack 1",
+        "authors":"Jedi Master",
+        "release_date":"01/09/2004",
+        "game_user_dir_name":"JediMaster-LOTGBonusPack1",
+        "trng_version_major":0,
+        "trng_version_minor":0,
+        "trng_version_maintainence":0,
+        "trng_version_build":0,
+        "trng_version_is_plus":0,
+        "trng_flipeffects_enabled":false,
+        "trng_rollingball_extended_ocb":false,
+        "trng_statics_extended_ocb":false,
+        "trng_pushable_extended_ocb":false
+    }
+}

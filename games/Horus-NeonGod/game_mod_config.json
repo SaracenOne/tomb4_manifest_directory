@@ -1,0 +1,28 @@
+{
+    "global_info":{
+        "manifest_compatibility_version":0,
+        "game_name":"Neon God",
+        "authors":"Horus",
+        "release_date":"24/11/2006",
+        "game_user_dir_name":"Horus-NeonGod",
+        "trng_version_major":0,
+        "trng_version_minor":0,
+        "trng_version_maintainence":0,
+        "trng_version_build":0,
+        "trng_version_is_plus":0,
+        "furr_data":{},
+        "trng_flipeffects_enabled":false,
+        "trng_rollingball_extended_ocb":false,
+        "trng_statics_extended_ocb":false,
+        "trng_pushable_extended_ocb":false,
+        "tomo_enable_weather_flipeffect":true,
+        "tomo_swap_whitelight_for_teleporter":true
+    },
+    "global_level_info":{
+        "environment_info":{
+            "far_view":28160,
+            "fog_end_range":28160,
+            "fog_start_range":24064
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "global_info":{
+        "manifest_compatibility_version":0,
+        "game_name":"City of Marostica (Demo)",
+        "authors":"Trey",
+        "release_date":"06/08/2004",
+        "game_user_dir_name":"Trey-CityOfMarosticaDemo",
+        "trng_version_major":0,
+        "trng_version_minor":0,
+        "trng_version_maintainence":0,
+        "trng_version_build":0,
+        "trng_version_is_plus":0,
+        "furr_data":{},
+        "trng_flipeffects_enabled":false,
+        "trng_rollingball_extended_ocb":false,
+        "trng_statics_extended_ocb":false,
+        "trng_pushable_extended_ocb":false
+    }
+}
